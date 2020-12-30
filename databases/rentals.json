@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "type": "2 Bedroom flat",
+        "price": "230,000",
+        "duration": "yearly"
+    },
+    {
+        "id": 2,
+        "type": "Terraced house",
+        "price": "100,000",
+        "duration": "monthly"
+    },
+    {
+        "id": 3,
+        "type": "Penthouse",
+        "price": "60,000",
+        "duration": "monthly"
+    },
+    {
+        "id": 4,
+        "type": "Duplex",
+        "price": "250,000",
+        "duration": "biannually"
+    },
+    {
+        "id": 5,
+        "type": "Bungalow",
+        "price": "350,000",
+        "duration": "yearly"
+    }
+]

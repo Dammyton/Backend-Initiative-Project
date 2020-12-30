@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Wonder woman",
+        "category": "Adventure"
+    },
+    {
+        "id": 2,
+        "title": "Courageous",
+        "category": "Faith"
+    },
+    {
+        "id": 3,
+        "title": "Omo Ghetto",
+        "category": "Comedy"
+    },
+    {
+        "id": 4,
+        "title": "Overcomer",
+        "category": "Faith"
+    },
+    {
+        "id": 5,
+        "title": "Money Heist",
+        "category": "Thriller"
+    }
+]
